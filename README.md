@@ -184,8 +184,8 @@
 ### 1 · Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/adnabu-qa.git
-cd adnabu-qa
+git clone https://github.com/SimhadriPandurangaRao/AdNabuQAAssignment.git
+cd AdNabuQAAssignment
 ```
 
 ### 2 · Create a virtual environment (recommended)
